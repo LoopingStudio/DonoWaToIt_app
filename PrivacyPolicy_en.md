@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 layout: template
-filename: PrivacyPolicy_en.md
+filename: PrivacyPolicy_en
 --- 
 
 # **DonoWatoIt**

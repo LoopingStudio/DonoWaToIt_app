@@ -1,3 +1,9 @@
+---
+title: Conditions d'Utilisation
+layout: template
+filename: Terms_fr
+---
+
 # **DonoWatoIt**
 
 ## Conditions d'Utilisation

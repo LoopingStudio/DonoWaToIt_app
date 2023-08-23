@@ -1,3 +1,9 @@
+---
+title: Terms of Use
+layout: template
+filename: Terms_en
+--- 
+
 # **DonoWatoIt**
 
 ## Terms of Use

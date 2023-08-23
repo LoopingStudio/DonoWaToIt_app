@@ -1,3 +1,9 @@
+---
+title: Politique de confidentialité
+layout: template
+filename: PrivacyPolicy_fr
+--- 
+
 # **DonoWatoIt**
 
 ## Politique de confidentialité
