@@ -1,7 +1,7 @@
 ---
-title: PAGE TITLE HERE
+title: Privacy Policy
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: PrivacyPolicy_en.md
 --- 
 
 # **DonoWatoIt**
