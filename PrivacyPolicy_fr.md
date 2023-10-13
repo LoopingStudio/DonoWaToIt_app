@@ -4,13 +4,13 @@ layout: template
 filename: PrivacyPolicy_fr
 --- 
 
-# **DonoWatoIt**
+# **OnMangeQuoi**
 
 ## Politique de confidentialité
 
 Dernière mise à jour : *8 Aout 2023*
 
-Nous, **Looping Studio**, exploitant de l'application **DonoWaToIt**, souhaitons vous informer de notre politique de confidentialité concernant votre utilisation de notre application. Veuillez lire attentivement cette politique avant d'utiliser l'application.
+Nous, **Looping Studio**, exploitant de l'application **OnMangeQuoi**, souhaitons vous informer de notre politique de confidentialité concernant votre utilisation de notre application. Veuillez lire attentivement cette politique avant d'utiliser l'application.
 
 ### Collecte de données
 
@@ -38,7 +38,7 @@ Si vous avez des questions ou des préoccupations concernant notre politique de 
 
 En utilisant notre application, vous acceptez les termes de cette politique de confidentialité. Si vous n'êtes pas d'accord avec cette politique, veuillez cesser d'utiliser l'application.
 
-### Merci d'utiliser **DonoWaToIt** !
+### Merci d'utiliser **OnMangeQuoi** !
 
 
 # **Looping Studio**
